@@ -11,3 +11,4 @@ display_board(board)
 
 def play(board)
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+end
