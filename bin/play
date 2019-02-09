@@ -9,7 +9,7 @@ display_board(board)
 
 # Make sure to execute #play below
 
-def play
+
 play(board)
-end
+
 
